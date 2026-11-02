@@ -1,0 +1,13 @@
+# Build output and local data
+.tools/
+artifacts/
+dist/
+**/bin/
+**/obj/
+**/user-state/
+**/sessions/
+*.pdb
+*.user
+.vs/
+local-data/
+docs/internal/
