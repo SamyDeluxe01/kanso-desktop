@@ -1,0 +1,1074 @@
+{
+  "Übersicht": [
+    "Overview",
+    "Vue d’ensemble",
+    "Vista general",
+    "Panoramica",
+    "Visão geral",
+    "概要"
+  ],
+  "Meine Gruppen": [
+    "My groups",
+    "Mes groupes",
+    "Mis grupos",
+    "I miei gruppi",
+    "Meus grupos",
+    "グループ"
+  ],
+  "Design & Verhalten": [
+    "Appearance & behavior",
+    "Apparence",
+    "Diseño y opciones",
+    "Aspetto e opzioni",
+    "Aparência",
+    "デザインと動作"
+  ],
+  "Daten & Ablage": [
+    "Data & storage",
+    "Données locales",
+    "Datos locales",
+    "Dati locali",
+    "Dados locais",
+    "データと保存"
+  ],
+  "Desktop aktivieren": [
+    "Activate desktop",
+    "Activer le bureau",
+    "Activar escritorio",
+    "Attiva desktop",
+    "Ativar área de trabalho",
+    "デスクトップを有効化"
+  ],
+  "Windows-Desktop zurück": [
+    "Restore Windows desktop",
+    "Rétablir le bureau Windows",
+    "Restaurar escritorio de Windows",
+    "Ripristina desktop Windows",
+    "Restaurar área de trabalho do Windows",
+    "デスクトップに戻す"
+  ],
+  "App beenden": [
+    "Quit Kanso",
+    "Quitter Kanso",
+    "Salir de Kanso",
+    "Esci da Kanso",
+    "Sair do Kanso",
+    "Kanso を終了"
+  ],
+  "Einstellungen": [
+    "Settings",
+    "Paramètres",
+    "Configuración",
+    "Impostazioni",
+    "Configurações",
+    "設定"
+  ],
+  "Windows-Desktop wiederherstellen": [
+    "Restore Windows desktop",
+    "Rétablir le bureau Windows",
+    "Restaurar escritorio de Windows",
+    "Ripristina desktop Windows",
+    "Restaurar área de trabalho do Windows",
+    "Windows デスクトップを復元"
+  ],
+  "Beenden": [
+    "Quit",
+    "Quitter",
+    "Salir",
+    "Esci",
+    "Sair",
+    "終了"
+  ],
+  "Dein Desktop. Neu geordnet.": [
+    "Your desktop. Organized.",
+    "Votre bureau. Bien rangé.",
+    "Tu escritorio. Ordenado.",
+    "Il tuo desktop. In ordine.",
+    "Sua área de trabalho. Organizada.",
+    "デスクトップをすっきり整理。"
+  ],
+  "Deine Daten bleiben deine.": [
+    "Your data stays yours.",
+    "Vos données restent les vôtres.",
+    "Tus datos siguen siendo tuyos.",
+    "I tuoi dati restano tuoi.",
+    "Seus dados continuam seus.",
+    "データはあなたのもの。"
+  ],
+  "○ Desktop-Modus aus": [
+    "○ Desktop mode off",
+    "○ Mode bureau désactivé",
+    "○ Modo escritorio desactivado",
+    "○ Modalità desktop disattivata",
+    "○ Modo área de trabalho desativado",
+    "○ デスクトップモード無効"
+  ],
+  "● Desktop-Modus aktiv": [
+    "● Desktop mode active",
+    "● Mode bureau actif",
+    "● Modo escritorio activo",
+    "● Modalità desktop attiva",
+    "● Modo área de trabalho ativo",
+    "● デスクトップモード有効"
+  ],
+  "◌ Desktop wird vorbereitet": [
+    "◌ Preparing desktop",
+    "◌ Préparation du bureau",
+    "◌ Preparando escritorio",
+    "◌ Preparazione del desktop",
+    "◌ Preparando área de trabalho",
+    "◌ デスクトップを準備中"
+  ],
+  "○ Vorschau · Originaldateien unverändert": [
+    "○ Preview · Original files unchanged",
+    "○ Aperçu · Fichiers d’origine inchangés",
+    "○ Vista previa · Archivos originales sin cambios",
+    "○ Anteprima · File originali invariati",
+    "○ Prévia · Arquivos originais inalterados",
+    "○ プレビュー · 元のファイルは変更されません"
+  ],
+  "Transparente Gruppen für deine echten Dateien und Ordner. Keine Kopien. Keine zusätzlichen Verknüpfungen.": [
+    "Transparent groups for your files and folders. No copies or extra shortcuts.",
+    "Des groupes transparents pour vos fichiers et dossiers. Sans copies ni raccourcis supplémentaires.",
+    "Grupos transparentes para tus archivos y carpetas. Sin copias ni accesos directos adicionales.",
+    "Gruppi trasparenti per file e cartelle. Nessuna copia o collegamento aggiuntivo.",
+    "Grupos transparentes para seus arquivos e pastas. Sem cópias nem atalhos extras.",
+    "ファイルやフォルダーを透明なグループに整理。コピーや追加のショートカットは作成しません。"
+  ],
+  "DEIN DESKTOP": [
+    "YOUR DESKTOP",
+    "VOTRE BUREAU",
+    "TU ESCRITORIO",
+    "IL TUO DESKTOP",
+    "SUA ÁREA DE TRABALHO",
+    "あなたのデスクトップ"
+  ],
+  "Alles an seinem Platz.": [
+    "Everything in its place.",
+    "Chaque chose à sa place.",
+    "Cada cosa en su lugar.",
+    "Ogni cosa al suo posto.",
+    "Tudo em seu lugar.",
+    "すべてを使いやすい場所へ。"
+  ],
+  "Freie Symbole bleiben auf der vorhandenen Windows-Desktopfläche. Ziehe eigene Dateien und Ordner in eine Gruppe. Die Originale bleiben an ihrem Speicherort.": [
+    "Ungrouped icons stay on the existing Windows desktop. Drag files and folders into a group. Originals stay in their current location.",
+    "Les icônes libres restent sur le bureau Windows existant. Glissez vos fichiers et dossiers dans un groupe. Les originaux restent à leur emplacement.",
+    "Los iconos libres permanecen en el escritorio de Windows. Arrastra archivos y carpetas a un grupo. Los originales conservan su ubicación.",
+    "Le icone libere restano sul desktop Windows esistente. Trascina file e cartelle in un gruppo. Gli originali restano nella loro posizione.",
+    "Os ícones livres permanecem na área de trabalho do Windows. Arraste arquivos e pastas para um grupo. Os originais ficam no local atual.",
+    "グループ外のアイコンは既存の Windows デスクトップに残ります。ファイルやフォルダーをグループにドラッグしても、元の保存場所は変わりません。"
+  ],
+  "Zuordnungen werden dauerhaft in dieser Version gespeichert. Beim Beenden werden die Windows-Symbole freigegeben. Windows-Start und automatische Wiederherstellung sind unten einstellbar.": [
+    "Assignments are saved permanently. Quitting restores the Windows icons. Configure Windows startup and automatic restoration below.",
+    "Les affectations sont conservées. Quitter rétablit les icônes Windows. Réglez le démarrage Windows et la restauration automatique ci-dessous.",
+    "Las asignaciones se guardan. Al salir se restauran los iconos de Windows. Configura abajo el inicio con Windows y la restauración automática.",
+    "Le assegnazioni vengono salvate. All’uscita riappaiono le icone Windows. Configura qui sotto l’avvio con Windows e il ripristino automatico.",
+    "As associações são salvas. Ao sair, os ícones do Windows são restaurados. Configure abaixo a inicialização com Windows e a restauração automática.",
+    "グループへの登録は保存され、終了すると Windows のアイコンが再表示されます。Windows 起動時の動作と自動復元は以下で設定できます。"
+  ],
+  "Desktop-Modus aktivieren": [
+    "Activate desktop mode",
+    "Activer le mode bureau",
+    "Activar modo escritorio",
+    "Attiva modalità desktop",
+    "Ativar modo área de trabalho",
+    "デスクトップモードを有効化"
+  ],
+  "Desktop-Modus beenden": [
+    "Stop desktop mode",
+    "Désactiver le mode bureau",
+    "Desactivar modo escritorio",
+    "Disattiva modalità desktop",
+    "Desativar modo área de trabalho",
+    "デスクトップモードを停止"
+  ],
+  "Wird vorbereitet …": [
+    "Preparing …",
+    "Préparation…",
+    "Preparando…",
+    "Preparazione…",
+    "Preparando…",
+    "準備中…"
+  ],
+  "START & WIEDERHERSTELLUNG": [
+    "STARTUP & RESTORATION",
+    "DÉMARRAGE ET RESTAURATION",
+    "INICIO Y RESTAURACIÓN",
+    "AVVIO E RIPRISTINO",
+    "INICIALIZAÇÃO E RESTAURAÇÃO",
+    "起動と復元"
+  ],
+  "Kanso mit Windows starten": [
+    "Start Kanso with Windows",
+    "Démarrer Kanso avec Windows",
+    "Iniciar Kanso con Windows",
+    "Avvia Kanso con Windows",
+    "Iniciar Kanso com o Windows",
+    "Windows と同時に Kanso を起動"
+  ],
+  "Zuletzt aktiven Desktop-Modus automatisch wiederherstellen": [
+    "Automatically restore the last active desktop mode",
+    "Restaurer automatiquement le dernier mode bureau actif",
+    "Restaurar automáticamente el último modo escritorio activo",
+    "Ripristina automaticamente l’ultima modalità desktop attiva",
+    "Restaurar automaticamente o último modo ativo",
+    "前回有効だったデスクトップモードを自動復元"
+  ],
+  "VORSCHAU / ZUM AUSPROBIEREN": [
+    "PREVIEW / TRY IT OUT",
+    "APERÇU / ESSAI",
+    "VISTA PREVIA / PRUEBA",
+    "ANTEPRIMA / PROVA",
+    "PRÉVIA / EXPERIMENTE",
+    "プレビュー"
+  ],
+  "Design ansehen": [
+    "Preview appearance",
+    "Aperçu de l’apparence",
+    "Vista previa del diseño",
+    "Anteprima dell’aspetto",
+    "Visualizar aparência",
+    "デザインを確認"
+  ],
+  "Vorschau öffnen · Desktop-Modus verlassen": [
+    "Open preview · Exit desktop mode",
+    "Ouvrir l’aperçu · Quitter le mode bureau",
+    "Abrir vista previa · Salir del modo escritorio",
+    "Apri anteprima · Esci dalla modalità desktop",
+    "Abrir prévia · Sair do modo área de trabalho",
+    "プレビューを開く · デスクトップモードを終了"
+  ],
+  "Ziehe echte Dateien und Ordner vom Desktop in eine Gruppe. Sie bleiben an ihrem ursprünglichen Speicherort, einschließlich OneDrive. Öffnen per Doppelklick; aus der Gruppe nehmen über das Elementmenü. In der Vorschau bleiben die normalen Windows-Symbole zusätzlich sichtbar.": [
+    "Drag desktop files and folders into a group. Their original location, including OneDrive, stays unchanged. Double-click to open. In preview, Windows icons remain visible as well.",
+    "Glissez des fichiers et dossiers du bureau dans un groupe. Leur emplacement d’origine, y compris OneDrive, est conservé. Double-cliquez pour ouvrir. L’aperçu laisse aussi les icônes Windows visibles.",
+    "Arrastra archivos y carpetas del escritorio a un grupo. Su ubicación original, incluido OneDrive, no cambia. Haz doble clic para abrir. En la vista previa también aparecen los iconos de Windows.",
+    "Trascina file e cartelle dal desktop in un gruppo. La posizione originale, incluso OneDrive, non cambia. Apri con un doppio clic. Nell’anteprima restano visibili anche le icone Windows.",
+    "Arraste arquivos e pastas da área de trabalho para um grupo. O local original, incluindo OneDrive, não muda. Clique duas vezes para abrir. Na prévia, os ícones do Windows também ficam visíveis.",
+    "デスクトップのファイルやフォルダーをグループへドラッグします。OneDrive を含め、元の保存場所は変わりません。ダブルクリックで開きます。プレビューでは Windows のアイコンも表示されます。"
+  ],
+  "Ziehe Dateien und Ordner in eine Gruppe. Kanso speichert nur die Gruppenzuordnung. Der Speicherort bleibt unverändert.": [
+    "Drag files and folders into a group. Kanso saves only the assignment; the storage location stays unchanged.",
+    "Glissez des fichiers et dossiers dans un groupe. Kanso ne conserve que l’affectation ; l’emplacement reste inchangé.",
+    "Arrastra archivos y carpetas a un grupo. Kanso solo guarda la asignación; la ubicación no cambia.",
+    "Trascina file e cartelle in un gruppo. Kanso salva solo l’assegnazione; la posizione non cambia.",
+    "Arraste arquivos e pastas para um grupo. Kanso salva apenas a associação; o local não muda.",
+    "ファイルやフォルダーをグループへドラッグしてください。Kanso はグループへの登録だけを保存し、保存場所は変更しません。"
+  ],
+  "+ Neue Gruppe": [
+    "+ New group",
+    "+ Nouveau groupe",
+    "+ Nuevo grupo",
+    "+ Nuovo gruppo",
+    "+ Novo grupo",
+    "+ 新しいグループ"
+  ],
+  "Neue Gruppe": [
+    "New group",
+    "Nouveau groupe",
+    "Nuevo grupo",
+    "Nuovo gruppo",
+    "Novo grupo",
+    "新しいグループ"
+  ],
+  "Name & Elemente bearbeiten": [
+    "Edit name & items",
+    "Modifier le nom et les éléments",
+    "Editar nombre y elementos",
+    "Modifica nome ed elementi",
+    "Editar nome e itens",
+    "名前と項目を編集"
+  ],
+  "Gruppe auflösen": [
+    "Dissolve group",
+    "Dissoudre le groupe",
+    "Disolver grupo",
+    "Sciogli gruppo",
+    "Desfazer grupo",
+    "グループを解除"
+  ],
+  "Nur die Gruppe auflösen? Nur die Gruppenzuordnungen werden entfernt. Originale werden nicht verändert.": [
+    "Dissolve this group? Only assignments are removed. Original files are unchanged.",
+    "Dissoudre ce groupe ? Seules les affectations sont supprimées. Les originaux restent inchangés.",
+    "¿Disolver este grupo? Solo se eliminan las asignaciones. Los originales no cambian.",
+    "Sciogliere questo gruppo? Vengono rimosse solo le assegnazioni. Gli originali non cambiano.",
+    "Desfazer este grupo? Apenas as associações serão removidas. Os originais não mudam.",
+    "このグループを解除しますか？グループへの登録だけが削除され、元のファイルは変更されません。"
+  ],
+  "Gruppe bearbeiten": [
+    "Edit group",
+    "Modifier le groupe",
+    "Editar grupo",
+    "Modifica gruppo",
+    "Editar grupo",
+    "グループを編集"
+  ],
+  "Name": [
+    "Name",
+    "Nom",
+    "Nombre",
+    "Nome",
+    "Nome",
+    "名前"
+  ],
+  "Desktop-Elemente zuordnen": [
+    "Assign desktop items",
+    "Affecter les éléments du bureau",
+    "Asignar elementos del escritorio",
+    "Assegna elementi del desktop",
+    "Associar itens da área de trabalho",
+    "デスクトップの項目を登録"
+  ],
+  "Speicherort und OneDrive-Synchronisation bleiben unverändert.": [
+    "Storage location and OneDrive synchronization stay unchanged.",
+    "L’emplacement et la synchronisation OneDrive restent inchangés.",
+    "La ubicación y la sincronización de OneDrive no cambian.",
+    "La posizione e la sincronizzazione OneDrive non cambiano.",
+    "O local e a sincronização do OneDrive não mudam.",
+    "保存場所と OneDrive の同期設定は変わりません。"
+  ],
+  "Suchen": [
+    "Search",
+    "Rechercher",
+    "Buscar",
+    "Cerca",
+    "Pesquisar",
+    "検索"
+  ],
+  "Nach Name oder Pfad suchen": [
+    "Search by name or path",
+    "Rechercher par nom ou chemin",
+    "Buscar por nombre o ruta",
+    "Cerca per nome o percorso",
+    "Pesquisar por nome ou caminho",
+    "名前またはパスで検索"
+  ],
+  "Kanso · Gruppe": [
+    "Kanso · Group",
+    "Kanso · Groupe",
+    "Kanso · Grupo",
+    "Kanso · Gruppo",
+    "Kanso · Grupo",
+    "Kanso · グループ"
+  ],
+  "Speichern": [
+    "Save",
+    "Enregistrer",
+    "Guardar",
+    "Salva",
+    "Salvar",
+    "保存"
+  ],
+  "Abbrechen": [
+    "Cancel",
+    "Annuler",
+    "Cancelar",
+    "Annulla",
+    "Cancelar",
+    "キャンセル"
+  ],
+  "Gruppe konnte nicht gespeichert werden": [
+    "Could not save group",
+    "Impossible d’enregistrer le groupe",
+    "No se pudo guardar el grupo",
+    "Impossibile salvare il gruppo",
+    "Não foi possível salvar o grupo",
+    "グループを保存できませんでした"
+  ],
+  "  / Ordner": [
+    "  / Folder",
+    "  / Dossier",
+    "  / Carpeta",
+    "  / Cartella",
+    "  / Pasta",
+    "  / フォルダー"
+  ],
+  "Wähle eine Basis und mache sie zu deiner eigenen.": [
+    "Choose a starting point and make it yours.",
+    "Choisissez une base et personnalisez-la.",
+    "Elige una base y personalízala.",
+    "Scegli una base e personalizzala.",
+    "Escolha uma base e personalize.",
+    "基本のテーマを選び、自分好みに調整できます。"
+  ],
+  "Themes": [
+    "Themes",
+    "Thèmes",
+    "Temas",
+    "Temi",
+    "Temas",
+    "テーマ"
+  ],
+  "Verhalten": [
+    "Behavior",
+    "Comportement",
+    "Comportamiento",
+    "Comportamento",
+    "Comportamento",
+    "動作"
+  ],
+  "Automatisch einklappen · Öffnen beim Darüberfahren": [
+    "Auto-collapse · Open on hover",
+    "Replier automatiquement · Ouvrir au survol",
+    "Contraer automáticamente · Abrir al pasar el cursor",
+    "Comprimi automaticamente · Apri al passaggio del mouse",
+    "Recolher automaticamente · Abrir ao passar o mouse",
+    "自動で折りたたむ · マウスを重ねると展開"
+  ],
+  "Dezente Hover- und Klappanimationen": [
+    "Subtle hover and folding animations",
+    "Animations discrètes de survol et de repli",
+    "Animaciones suaves al pasar el cursor y contraer",
+    "Animazioni delicate al passaggio e alla chiusura",
+    "Animações suaves ao passar o mouse e recolher",
+    "マウス操作と折りたたみの控えめなアニメーション"
+  ],
+  "Symbolgröße": [
+    "Icon size",
+    "Taille des icônes",
+    "Tamaño de iconos",
+    "Dimensione icone",
+    "Tamanho dos ícones",
+    "アイコンのサイズ"
+  ],
+  "Akzentfarbe (#RRGGBB)": [
+    "Accent color (#RRGGBB)",
+    "Couleur d’accent (#RRGGBB)",
+    "Color de acento (#RRGGBB)",
+    "Colore di accento (#RRGGBB)",
+    "Cor de destaque (#RRGGBB)",
+    "アクセントカラー (#RRGGBB)"
+  ],
+  "Rahmen-Hintergrund (#RRGGBB)": [
+    "Panel background (#RRGGBB)",
+    "Fond du panneau (#RRGGBB)",
+    "Fondo del panel (#RRGGBB)",
+    "Sfondo del pannello (#RRGGBB)",
+    "Fundo do painel (#RRGGBB)",
+    "パネルの背景色 (#RRGGBB)"
+  ],
+  "Eigene Farben anwenden": [
+    "Apply custom colors",
+    "Appliquer les couleurs",
+    "Aplicar colores",
+    "Applica colori",
+    "Aplicar cores",
+    "色を適用"
+  ],
+  "Bitte Farben als #RRGGBB eingeben, zum Beispiel #DFA0B6.": [
+    "Enter colors as #RRGGBB, for example #DFA0B6.",
+    "Saisissez les couleurs au format #RRGGBB, par exemple #DFA0B6.",
+    "Introduce colores como #RRGGBB, por ejemplo #DFA0B6.",
+    "Inserisci i colori come #RRGGBB, ad esempio #DFA0B6.",
+    "Insira cores como #RRGGBB, por exemplo #DFA0B6.",
+    "#DFA0B6 のように #RRGGBB 形式で色を入力してください。"
+  ],
+  "Sprache / Language": [
+    "Language",
+    "Langue",
+    "Idioma",
+    "Lingua",
+    "Idioma",
+    "言語"
+  ],
+  "Die Sprache wird sofort angewendet und gespeichert.": [
+    "The language is applied immediately and saved.",
+    "La langue est appliquée immédiatement et enregistrée.",
+    "El idioma se aplica al instante y se guarda.",
+    "La lingua viene applicata subito e salvata.",
+    "O idioma é aplicado imediatamente e salvo.",
+    "言語はすぐに適用され、保存されます。"
+  ],
+  "Lokal. Portabel. Nachvollziehbar.": [
+    "Local. Portable. Transparent.",
+    "Local. Portable. Transparent.",
+    "Local. Portátil. Transparente.",
+    "Locale. Portatile. Trasparente.",
+    "Local. Portátil. Transparente.",
+    "ローカル保存。持ち運び可能。わかりやすく。"
+  ],
+  "Layout exportieren": [
+    "Export layout",
+    "Exporter la disposition",
+    "Exportar diseño",
+    "Esporta disposizione",
+    "Exportar layout",
+    "レイアウトをエクスポート"
+  ],
+  "Layout importieren": [
+    "Import layout",
+    "Importer la disposition",
+    "Importar diseño",
+    "Importa disposizione",
+    "Importar layout",
+    "レイアウトをインポート"
+  ],
+  "Fehlerprotokoll öffnen": [
+    "Open error log",
+    "Ouvrir le journal d’erreurs",
+    "Abrir registro de errores",
+    "Apri registro errori",
+    "Abrir registro de erros",
+    "エラーログを開く"
+  ],
+  "Zurück zum Windows-Desktop": [
+    "Back to Windows desktop",
+    "Revenir au bureau Windows",
+    "Volver al escritorio de Windows",
+    "Torna al desktop Windows",
+    "Voltar à área de trabalho do Windows",
+    "Windows デスクトップに戻る"
+  ],
+  "Windows-Symbole wiederherstellen": [
+    "Restore Windows icons",
+    "Rétablir les icônes Windows",
+    "Restaurar iconos de Windows",
+    "Ripristina icone Windows",
+    "Restaurar ícones do Windows",
+    "Windows のアイコンを復元"
+  ],
+  "Dieser Knopf schließt die Gruppenfenster. Originaldateien bleiben unverändert am bisherigen Ort. Aus einer Gruppe nehmen entfernt nur die Zuordnung.": [
+    "This closes the group windows. Original files stay in place. Removing an item from a group removes only its assignment.",
+    "Ce bouton ferme les groupes. Les originaux restent à leur emplacement. Retirer un élément ne supprime que son affectation.",
+    "Este botón cierra las ventanas de grupo. Los originales permanecen en su ubicación. Quitar un elemento solo elimina su asignación.",
+    "Questo pulsante chiude le finestre dei gruppi. Gli originali restano al loro posto. La rimozione elimina solo l’assegnazione.",
+    "Este botão fecha as janelas dos grupos. Os originais ficam no mesmo local. Remover um item elimina apenas sua associação.",
+    "グループのウィンドウを閉じます。元のファイルは同じ場所に残ります。グループから外しても登録だけが解除されます。"
+  ],
+  "Ein-/ausklappen (auch per Doppelklick auf den Titel)": [
+    "Expand/collapse (also by double-clicking the title)",
+    "Déplier/replier (ou double-cliquer sur le titre)",
+    "Expandir/contraer (también con doble clic en el título)",
+    "Espandi/comprimi (anche con doppio clic sul titolo)",
+    "Expandir/recolher (ou clique duas vezes no título)",
+    "展開・折りたたみ（タイトルのダブルクリックでも操作できます）"
+  ],
+  "Dateien oder Ordner hierher ziehen.\nDie Originale bleiben am bisherigen Ort.": [
+    "Drop files or folders here.\nOriginals stay in their current location.",
+    "Glissez des fichiers ou dossiers ici.\nLes originaux restent à leur emplacement.",
+    "Arrastra archivos o carpetas aquí.\nLos originales conservan su ubicación.",
+    "Trascina qui file o cartelle.\nGli originali restano al loro posto.",
+    "Arraste arquivos ou pastas para cá.\nOs originais ficam no mesmo local.",
+    "ファイルやフォルダーをここへドラッグ。\n元の保存場所は変わりません。"
+  ],
+  "Datei zur Gruppe hinzugefügt.": [
+    "File added to the group.",
+    "Fichier ajouté au groupe.",
+    "Archivo añadido al grupo.",
+    "File aggiunto al gruppo.",
+    "Arquivo adicionado ao grupo.",
+    "ファイルをグループに追加しました。"
+  ],
+  "Ablegen konnte nicht abgeschlossen werden.": [
+    "Could not complete drop.",
+    "Impossible de terminer le dépôt.",
+    "No se pudo completar la acción de soltar.",
+    "Impossibile completare il rilascio.",
+    "Não foi possível concluir ao soltar.",
+    "ドロップを完了できませんでした。"
+  ],
+  "Ablegen konnte nicht gelesen werden.": [
+    "Could not read dropped items.",
+    "Impossible de lire les éléments déposés.",
+    "No se pudieron leer los elementos soltados.",
+    "Impossibile leggere gli elementi trascinati.",
+    "Não foi possível ler os itens soltos.",
+    "ドロップされた項目を読み取れませんでした。"
+  ],
+  "Ablegen nicht möglich: Das Element ist in diesem Modus nicht verfügbar.": [
+    "Cannot drop: this item is unavailable in this mode.",
+    "Dépôt impossible : cet élément n’est pas disponible dans ce mode.",
+    "No se puede soltar: este elemento no está disponible en este modo.",
+    "Rilascio impossibile: l’elemento non è disponibile in questa modalità.",
+    "Não é possível soltar: o item não está disponível neste modo.",
+    "このモードでは、この項目をドロップできません。"
+  ],
+  "Windows-Kontextmenü konnte nicht geöffnet werden.": [
+    "Could not open the Windows context menu.",
+    "Impossible d’ouvrir le menu contextuel Windows.",
+    "No se pudo abrir el menú contextual de Windows.",
+    "Impossibile aprire il menu contestuale Windows.",
+    "Não foi possível abrir o menu de contexto do Windows.",
+    "Windows のコンテキストメニューを開けませんでした。"
+  ],
+  "Windows konnte das Kontextmenü nicht erstellen.": [
+    "Windows could not create the context menu.",
+    "Windows n’a pas pu créer le menu contextuel.",
+    "Windows no pudo crear el menú contextual.",
+    "Windows non ha potuto creare il menu contestuale.",
+    "O Windows não conseguiu criar o menu de contexto.",
+    "Windows がコンテキストメニューを作成できませんでした。"
+  ],
+  "Das Gruppenfenster ist nicht mehr verfügbar.": [
+    "The group window is no longer available.",
+    "La fenêtre du groupe n’est plus disponible.",
+    "La ventana del grupo ya no está disponible.",
+    "La finestra del gruppo non è più disponibile.",
+    "A janela do grupo não está mais disponível.",
+    "グループのウィンドウは利用できません。"
+  ],
+  "Ziel nicht erreichbar: ": [
+    "Target unavailable: ",
+    "Cible inaccessible : ",
+    "Destino no disponible: ",
+    "Destinazione non disponibile: ",
+    "Destino indisponível: ",
+    "対象にアクセスできません："
+  ],
+  "Bitte einen Gruppennamen eingeben.": [
+    "Enter a group name.",
+    "Saisissez un nom de groupe.",
+    "Introduce un nombre de grupo.",
+    "Inserisci un nome per il gruppo.",
+    "Insira um nome de grupo.",
+    "グループ名を入力してください。"
+  ],
+  "Die Gruppe wurde inzwischen entfernt.": [
+    "The group has been removed.",
+    "Le groupe a été supprimé.",
+    "El grupo se ha eliminado.",
+    "Il gruppo è stato rimosso.",
+    "O grupo foi removido.",
+    "グループは削除されています。"
+  ],
+  "Die Zielgruppe existiert nicht mehr.": [
+    "The destination group no longer exists.",
+    "Le groupe de destination n’existe plus.",
+    "El grupo de destino ya no existe.",
+    "Il gruppo di destinazione non esiste più.",
+    "O grupo de destino não existe mais.",
+    "登録先のグループは存在しません。"
+  ],
+  "Zuordnung konnte nicht übernommen werden: ": [
+    "Could not apply assignment: ",
+    "Impossible d’appliquer l’affectation : ",
+    "No se pudo aplicar la asignación: ",
+    "Impossibile applicare l’assegnazione: ",
+    "Não foi possível aplicar a associação: ",
+    "登録を適用できませんでした："
+  ],
+  "Dateiliste konnte nicht aktualisiert werden.": [
+    "Could not refresh the file list.",
+    "Impossible d’actualiser la liste des fichiers.",
+    "No se pudo actualizar la lista de archivos.",
+    "Impossibile aggiornare l’elenco dei file.",
+    "Não foi possível atualizar a lista de arquivos.",
+    "ファイル一覧を更新できませんでした。"
+  ],
+  "Dateisuche wartet auf Windows/OneDrive. Die Oberfläche bleibt bedienbar.": [
+    "Waiting for Windows/OneDrive. The interface remains responsive.",
+    "En attente de Windows/OneDrive. L’interface reste utilisable.",
+    "Esperando a Windows/OneDrive. La interfaz sigue disponible.",
+    "In attesa di Windows/OneDrive. L’interfaccia resta utilizzabile.",
+    "Aguardando Windows/OneDrive. A interface continua utilizável.",
+    "Windows または OneDrive の応答待ちです。画面の操作は続けられます。"
+  ],
+  "Layout konnte nicht gespeichert werden. Die Originaldateien sind unverändert.": [
+    "Could not save layout. Original files are unchanged.",
+    "Impossible d’enregistrer la disposition. Les originaux restent inchangés.",
+    "No se pudo guardar el diseño. Los originales no han cambiado.",
+    "Impossibile salvare la disposizione. Gli originali non sono cambiati.",
+    "Não foi possível salvar o layout. Os originais não mudaram.",
+    "レイアウトを保存できませんでした。元のファイルは変更されていません。"
+  ],
+  "Layout konnte nicht vorbereitet werden.": [
+    "Could not prepare the layout.",
+    "Impossible de préparer la disposition.",
+    "No se pudo preparar el diseño.",
+    "Impossibile preparare la disposizione.",
+    "Não foi possível preparar o layout.",
+    "レイアウトを準備できませんでした。"
+  ],
+  "Layout speichern": [
+    "Save layout",
+    "Enregistrer la disposition",
+    "Guardar diseño",
+    "Salva disposizione",
+    "Salvar layout",
+    "レイアウトを保存"
+  ],
+  "Beenden abgebrochen: Das Layout konnte noch nicht sicher gespeichert werden. Erneut versuchen oder Layout exportieren.": [
+    "Quit cancelled: the layout could not be saved safely. Retry or export it.",
+    "Fermeture annulée : la disposition n’a pas pu être enregistrée. Réessayez ou exportez-la.",
+    "Salida cancelada: no se pudo guardar el diseño de forma segura. Reintenta o expórtalo.",
+    "Uscita annullata: impossibile salvare la disposizione. Riprova o esportala.",
+    "Saída cancelada: não foi possível salvar o layout com segurança. Tente novamente ou exporte.",
+    "終了を中止しました。レイアウトを安全に保存できませんでした。再試行するか、エクスポートしてください。"
+  ],
+  "Das Element kann nicht geöffnet werden.": [
+    "Could not open this item.",
+    "Impossible d’ouvrir cet élément.",
+    "No se pudo abrir este elemento.",
+    "Impossibile aprire questo elemento.",
+    "Não foi possível abrir este item.",
+    "この項目を開けませんでした。"
+  ],
+  "Die vorhandenen Windows-Desktopsymbole müssen sichtbar sein.": [
+    "Windows desktop icons must be visible.",
+    "Les icônes du bureau Windows doivent être visibles.",
+    "Los iconos del escritorio de Windows deben estar visibles.",
+    "Le icone del desktop Windows devono essere visibili.",
+    "Os ícones da área de trabalho do Windows devem estar visíveis.",
+    "Windows デスクトップのアイコンを表示してください。"
+  ],
+  "Eigene Dateien und Ordner können jetzt zugeordnet werden. Die Originale bleiben am Speicherort.": [
+    "Your files and folders can now be assigned. Originals stay in their current location.",
+    "Vous pouvez maintenant affecter vos fichiers et dossiers. Les originaux restent à leur emplacement.",
+    "Ya puedes asignar tus archivos y carpetas. Los originales conservan su ubicación.",
+    "Ora puoi assegnare file e cartelle. Gli originali restano al loro posto.",
+    "Seus arquivos e pastas já podem ser associados. Os originais ficam no mesmo local.",
+    "ファイルやフォルダーをグループに登録できます。元の保存場所は変わりません。"
+  ],
+  "Desktop-Verbindung verloren. Windows-Symbole sind wieder freigegeben; Zuordnungen bleiben gespeichert.": [
+    "Desktop connection lost. Windows icons are restored; assignments remain saved.",
+    "Connexion au bureau perdue. Les icônes Windows sont rétablies ; les affectations sont conservées.",
+    "Se perdió la conexión con el escritorio. Los iconos se restauraron y las asignaciones siguen guardadas.",
+    "Connessione al desktop persa. Le icone Windows sono ripristinate; le assegnazioni restano salvate.",
+    "Conexão com a área de trabalho perdida. Os ícones foram restaurados e as associações continuam salvas.",
+    "デスクトップへの接続が切れました。Windows のアイコンは復元され、グループへの登録は保存されています。"
+  ],
+  "Windows konnte die Zuordnung nicht bestätigen. Desktop-Modus beendet; Originaldateien und gespeicherte Zuordnungen bleiben erhalten.": [
+    "Windows could not confirm the assignment. Desktop mode stopped; originals and saved assignments are preserved.",
+    "Windows n’a pas confirmé l’affectation. Le mode bureau est arrêté ; les originaux et les affectations sont conservés.",
+    "Windows no pudo confirmar la asignación. Se detuvo el modo escritorio; se conservan los originales y las asignaciones.",
+    "Windows non ha confermato l’assegnazione. Modalità desktop arrestata; originali e assegnazioni conservati.",
+    "O Windows não confirmou a associação. O modo foi interrompido; os originais e as associações foram preservados.",
+    "Windows が登録を確認できなかったため、デスクトップモードを停止しました。元のファイルと登録情報は保持されます。"
+  ],
+  "Windows-Autostart konnte nicht eingerichtet werden.": [
+    "Could not configure Windows startup.",
+    "Impossible de configurer le démarrage Windows.",
+    "No se pudo configurar el inicio con Windows.",
+    "Impossibile configurare l’avvio con Windows.",
+    "Não foi possível configurar a inicialização com o Windows.",
+    "Windows 起動時の設定を行えませんでした。"
+  ],
+  "Windows-Autostart konnte nicht geändert werden.": [
+    "Could not change Windows startup.",
+    "Impossible de modifier le démarrage Windows.",
+    "No se pudo cambiar el inicio con Windows.",
+    "Impossibile modificare l’avvio con Windows.",
+    "Não foi possível alterar a inicialização com o Windows.",
+    "Windows 起動時の設定を変更できませんでした。"
+  ],
+  "Desktop-Modus konnte nicht starten: ": [
+    "Could not start desktop mode: ",
+    "Impossible d’activer le mode bureau : ",
+    "No se pudo iniciar el modo escritorio: ",
+    "Impossibile avviare la modalità desktop: ",
+    "Não foi possível iniciar o modo área de trabalho: ",
+    "デスクトップモードを起動できませんでした："
+  ],
+  "Desktop-Modus beendet: ": [
+    "Desktop mode stopped: ",
+    "Mode bureau arrêté : ",
+    "Modo escritorio detenido: ",
+    "Modalità desktop arrestata: ",
+    "Modo área de trabalho interrompido: ",
+    "デスクトップモードを停止しました："
+  ],
+  "Kanso läuft bereits. Bitte die bisherige Sitzung regulär beenden.": [
+    "Kanso is already running. Please quit the existing session first.",
+    "Kanso est déjà ouvert. Fermez d’abord la session existante.",
+    "Kanso ya está abierto. Cierra primero la sesión existente.",
+    "Kanso è già in esecuzione. Chiudi prima la sessione esistente.",
+    "O Kanso já está em execução. Encerre a sessão existente primeiro.",
+    "Kanso は既に起動しています。先に既存のセッションを終了してください。"
+  ],
+  "Kanso stellt den zuletzt aktiven Desktop-Modus automatisch wieder her. Autostart und Wiederherstellung sind in den Einstellungen schaltbar.": [
+    "Kanso automatically restores the last active desktop mode. Startup and restoration can be changed in Settings.",
+    "Kanso restaure automatiquement le dernier mode bureau actif. Démarrage et restauration sont réglables dans les paramètres.",
+    "Kanso restaura el último modo escritorio activo. Puedes cambiar el inicio y la restauración en Configuración.",
+    "Kanso ripristina l’ultima modalità desktop attiva. Avvio e ripristino si configurano nelle impostazioni.",
+    "O Kanso restaura o último modo ativo. A inicialização e a restauração podem ser alteradas nas configurações.",
+    "Kanso は前回有効だったデスクトップモードを自動復元します。起動と復元の動作は設定で変更できます。"
+  ],
+  "Explorer wurde neu gestartet. Windows-Symbole sind wieder aktiv.": [
+    "Explorer restarted. Windows icons are active again.",
+    "L’Explorateur a redémarré. Les icônes Windows sont de nouveau actives.",
+    "El Explorador se reinició. Los iconos de Windows están activos.",
+    "Esplora file è stato riavviato. Le icone Windows sono nuovamente attive.",
+    "O Explorer foi reiniciado. Os ícones do Windows estão ativos novamente.",
+    "エクスプローラーが再起動しました。Windows のアイコンは再表示されています。"
+  ],
+  "Monitoranordnung geändert. Windows-Symbole sind wieder aktiv; Desktop-Modus erneut starten.": [
+    "Monitor layout changed. Windows icons are restored; desktop mode can be restarted.",
+    "La disposition des écrans a changé. Les icônes Windows sont rétablies ; le mode bureau peut redémarrer.",
+    "Cambió la disposición de pantallas. Los iconos se restauraron; el modo escritorio puede reiniciarse.",
+    "La disposizione dei monitor è cambiata. Le icone Windows sono ripristinate; la modalità desktop può riavviarsi.",
+    "A disposição dos monitores mudou. Os ícones foram restaurados; o modo pode ser reiniciado.",
+    "モニター構成が変わりました。Windows のアイコンは復元され、デスクトップモードを再開できます。"
+  ],
+  "{0} Gruppen  /  {1} bekannte Elemente": [
+    "{0} groups  /  {1} known items",
+    "{0} groupes  /  {1} éléments connus",
+    "{0} grupos  /  {1} elementos conocidos",
+    "{0} gruppi  /  {1} elementi noti",
+    "{0} grupos  /  {1} itens conhecidos",
+    "{0} グループ  /  {1} 項目"
+  ],
+  "{0} Elemente · {1}": [
+    "{0} items · {1}",
+    "{0} éléments · {1}",
+    "{0} elementos · {1}",
+    "{0} elementi · {1}",
+    "{0} itens · {1}",
+    "{0} 項目 · {1}"
+  ],
+  "eingeklappt": [
+    "collapsed",
+    "replié",
+    "contraído",
+    "compresso",
+    "recolhido",
+    "折りたたみ"
+  ],
+  "auseinander": [
+    "expanded",
+    "déplié",
+    "expandido",
+    "espanso",
+    "expandido",
+    "展開"
+  ],
+  "aufgeklappt": [
+    "expanded",
+    "déplié",
+    "expandido",
+    "espanso",
+    "expandido",
+    "展開"
+  ],
+  "ausgeklappt": [
+    "expanded",
+    "déplié",
+    "expandido",
+    "espanso",
+    "expandido",
+    "展開"
+  ],
+  "{0} von {1} Elementen · Auswahl bleibt beim Suchen erhalten": [
+    "{0} of {1} items · Selection is kept while searching",
+    "{0} éléments sur {1} · La sélection reste lors de la recherche",
+    "{0} de {1} elementos · La selección se conserva al buscar",
+    "{0} di {1} elementi · La selezione resta durante la ricerca",
+    "{0} de {1} itens · A seleção é mantida durante a pesquisa",
+    "{1} 項目中 {0} 項目 · 検索中も選択は保持されます"
+  ],
+  "Hintergrund-Deckkraft: {0} %": [
+    "Background opacity: {0}%",
+    "Opacité du fond : {0} %",
+    "Opacidad del fondo: {0} %",
+    "Opacità dello sfondo: {0}%",
+    "Opacidade do fundo: {0}%",
+    "背景の不透明度：{0}%"
+  ],
+  "Sakura · ruhige Kontraste": [
+    "Sakura · calm contrasts",
+    "Sakura · contrastes doux",
+    "Sakura · contrastes suaves",
+    "Sakura · contrasti delicati",
+    "Sakura · contrastes suaves",
+    "桜 · 落ち着いたコントラスト"
+  ],
+  "Lavendel · weiche Akzente": [
+    "Lavender · soft accents",
+    "Lavande · accents doux",
+    "Lavanda · acentos suaves",
+    "Lavanda · accenti morbidi",
+    "Lavanda · destaques suaves",
+    "ラベンダー · 柔らかなアクセント"
+  ],
+  "\nWeniger Unruhe.\nMehr dein Desktop.": [
+    "\nLess clutter.\nMore your desktop.",
+    "\nMoins de désordre.\nUn bureau à vous.",
+    "\nMenos desorden.\nMás tu escritorio.",
+    "\nMeno disordine.\nPiù il tuo desktop.",
+    "\nMenos desordem.\nMais a sua área de trabalho.",
+    "\nすっきりと。\n自分らしいデスクトップへ。"
+  ],
+  "Daten bleiben lokal. Kanso speichert Layout, Farben und Dateizuordnungen. Die Originale bleiben an ihrem Speicherort.": [
+    "Data stays local. Kanso saves layout, colors and file assignments. Originals stay in their current location.",
+    "Les données restent locales. Kanso enregistre la disposition, les couleurs et les affectations. Les originaux restent à leur emplacement.",
+    "Los datos se guardan localmente. Kanso guarda el diseño, los colores y las asignaciones. Los originales conservan su ubicación.",
+    "I dati restano locali. Kanso salva disposizione, colori e assegnazioni. Gli originali restano nella loro posizione.",
+    "Os dados ficam locais. Kanso salva layout, cores e associações. Os originais ficam no local atual.",
+    "データはローカルに保存されます。Kanso はレイアウト、色、ファイルの登録を保存し、元のファイルは同じ場所に残ります。"
+  ],
+  "Einstellungen: {0}\nSicherung: {1}": [
+    "Settings: {0}\nBackup: {1}",
+    "Paramètres : {0}\nSauvegarde : {1}",
+    "Configuración: {0}\nCopia de seguridad: {1}",
+    "Impostazioni: {0}\nBackup: {1}",
+    "Configurações: {0}\nBackup: {1}",
+    "設定：{0}\nバックアップ：{1}"
+  ],
+  "Ein Layout-Export enthält nur Einstellungen und Dateipfade. Sichere deine Originaldateien separat. Teile Exporte nur bewusst, da sie persönliche Dateipfade enthalten können.": [
+    "A layout export contains only settings and file paths. Back up original files separately. Share exports carefully as they may contain personal paths.",
+    "Une exportation contient uniquement les paramètres et les chemins. Sauvegardez les originaux séparément. Partagez les exports avec précaution : ils peuvent contenir des chemins personnels.",
+    "Una exportación solo contiene ajustes y rutas. Haz copias de los originales por separado. Comparte las exportaciones con cuidado, porque pueden incluir rutas personales.",
+    "Un’esportazione contiene solo impostazioni e percorsi. Salva gli originali separatamente. Condividi le esportazioni con attenzione: possono contenere percorsi personali.",
+    "Uma exportação contém apenas configurações e caminhos. Faça backup dos originais separadamente. Compartilhe exportações com cuidado, pois podem conter caminhos pessoais.",
+    "エクスポートには設定とファイルパスだけが含まれます。元のファイルは別途バックアップしてください。個人情報を含むパスが記録されることがあるため、共有にはご注意ください。"
+  ],
+  "Layout-Import ist in dieser Version noch nicht verfügbar.": [
+    "Layout import is not available in this version yet.",
+    "L’importation de dispositions n’est pas encore disponible dans cette version.",
+    "La importación de diseños todavía no está disponible en esta versión.",
+    "L’importazione delle disposizioni non è ancora disponibile in questa versione.",
+    "A importação de layouts ainda não está disponível nesta versão.",
+    "このバージョンでは、レイアウトのインポートはまだ利用できません。"
+  ],
+  "Hinweise": [
+    "Notes",
+    "Remarques",
+    "Notas",
+    "Note",
+    "Observações",
+    "注意事項"
+  ],
+  "Direktes Umbenennen in Gruppen und die Positionierung am Loslasspunkt sind noch nicht enthalten. Das native Modul bleibt nach dem Beenden inaktiv bis zum regulären Explorer-Neustart geladen.": [
+    "Inline renaming and positioning at the release point are not included yet. After quitting, the native module stays loaded but inactive until Explorer restarts normally.",
+    "Le renommage direct et le placement au point de dépôt ne sont pas encore inclus. Après la fermeture, le module natif reste chargé mais inactif jusqu’au redémarrage normal de l’Explorateur.",
+    "Todavía no se incluyen el cambio de nombre directo ni la posición en el punto de soltar. Al salir, el módulo nativo sigue cargado pero inactivo hasta que el Explorador se reinicie normalmente.",
+    "La rinomina diretta e il posizionamento nel punto di rilascio non sono ancora inclusi. Dopo l’uscita, il modulo nativo resta caricato ma inattivo fino al riavvio normale di Esplora file.",
+    "A renomeação direta e o posicionamento no ponto de soltura ainda não estão incluídos. Ao sair, o módulo nativo permanece carregado, mas inativo, até o Explorer reiniciar normalmente.",
+    "グループ内での直接の名前変更と、ドロップした位置への配置はまだ含まれていません。終了後もネイティブモジュールはエクスプローラーの通常の再起動まで、読み込まれたまま非アクティブ状態になります。"
+  ],
+  "Es können nur vollständige Datei- oder Ordnerpfade zugeordnet werden.": [
+    "Only full file or folder paths can be assigned.",
+    "Seuls les chemins complets de fichiers ou dossiers peuvent être affectés.",
+    "Solo se pueden asignar rutas completas de archivos o carpetas.",
+    "È possibile assegnare solo percorsi completi di file o cartelle.",
+    "Só é possível associar caminhos completos de arquivos ou pastas.",
+    "ファイルまたはフォルダーの完全なパスだけを登録できます。"
+  ],
+  "Diese Layout-Version wird noch nicht unterstützt.": [
+    "This layout version is not supported yet.",
+    "Cette version de disposition n’est pas encore prise en charge.",
+    "Esta versión de diseño todavía no es compatible.",
+    "Questa versione della disposizione non è ancora supportata.",
+    "Esta versão do layout ainda não é compatível.",
+    "このバージョンのレイアウトはまだサポートされていません。"
+  ],
+  "Ein Export wartet noch auf Windows.": [
+    "An export is still waiting for Windows.",
+    "Une exportation attend encore Windows.",
+    "Una exportación sigue esperando a Windows.",
+    "Un’esportazione è ancora in attesa di Windows.",
+    "Uma exportação ainda está aguardando o Windows.",
+    "エクスポートが Windows の応答を待っています。"
+  ],
+  "Ein Import wartet noch auf Windows.": [
+    "An import is still waiting for Windows.",
+    "Une importation attend encore Windows.",
+    "Una importación sigue esperando a Windows.",
+    "Un’importazione è ancora in attesa di Windows.",
+    "Uma importação ainda está aguardando o Windows.",
+    "インポートが Windows の応答を待っています。"
+  ],
+  "Import abgebrochen: ": [
+    "Import cancelled: ",
+    "Importation annulée : ",
+    "Importación cancelada: ",
+    "Importazione annullata: ",
+    "Importação cancelada: ",
+    "インポートを中止しました："
+  ],
+  "Ungültiger Programmpfad.": [
+    "Invalid application path.",
+    "Chemin d’application invalide.",
+    "Ruta de aplicación no válida.",
+    "Percorso dell’applicazione non valido.",
+    "Caminho do aplicativo inválido.",
+    "アプリのパスが無効です。"
+  ],
+  "Windows-Autostart konnte nicht geöffnet werden.": [
+    "Could not open Windows startup settings.",
+    "Impossible d’ouvrir les paramètres de démarrage Windows.",
+    "No se pudieron abrir los ajustes de inicio de Windows.",
+    "Impossibile aprire le impostazioni di avvio Windows.",
+    "Não foi possível abrir as configurações de inicialização do Windows.",
+    "Windows 起動時の設定を開けませんでした。"
+  ],
+  "Programmpfad fehlt.": [
+    "Application path is missing.",
+    "Le chemin de l’application est manquant.",
+    "Falta la ruta de la aplicación.",
+    "Percorso dell’applicazione mancante.",
+    "O caminho do aplicativo está ausente.",
+    "アプリのパスがありません。"
+  ],
+  "Klar · zeitlos · reduziert": [
+    "Clear · timeless · minimal",
+    "Clair · intemporel · minimal",
+    "Claro · atemporal · minimalista",
+    "Chiaro · senza tempo · essenziale",
+    "Claro · atemporal · minimalista",
+    "明快 · 普遍的 · シンプル"
+  ],
+  "Graphit · dezentes Eisblau": [
+    "Graphite · subtle ice blue",
+    "Graphite · bleu glacier discret",
+    "Grafito · azul hielo sutil",
+    "Grafite · azzurro ghiaccio tenue",
+    "Grafite · azul-gelo suave",
+    "グラファイト · 控えめなアイスブルー"
+  ],
+  "Native Verbindung fehlgeschlagen: {0}": [
+    "Native connection failed: {0}",
+    "Échec de la connexion native : {0}",
+    "Error de conexión nativa: {0}",
+    "Connessione nativa non riuscita: {0}",
+    "Falha na conexão nativa: {0}",
+    "ネイティブ接続に失敗しました：{0}"
+  ],
+  "Die vorhandenen Windows-Symbole müssen sichtbar sein. Bisheriges Kanso bitte regulär beenden.": [
+    "Windows desktop icons must be visible. Please quit any previous Kanso session first.",
+    "Les icônes Windows doivent être visibles. Fermez d’abord la session Kanso précédente.",
+    "Los iconos de Windows deben estar visibles. Cierra primero la sesión anterior de Kanso.",
+    "Le icone Windows devono essere visibili. Chiudi prima la precedente sessione di Kanso.",
+    "Os ícones do Windows devem estar visíveis. Encerre a sessão anterior do Kanso primeiro.",
+    "Windows のアイコンを表示し、既存の Kanso セッションを先に終了してください。"
+  ],
+  "Maximal 20.000 Zuordnungen werden unterstützt.": [
+    "A maximum of 20,000 assignments is supported.",
+    "Un maximum de 20 000 affectations est pris en charge.",
+    "Se admiten hasta 20.000 asignaciones.",
+    "Sono supportate al massimo 20.000 assegnazioni.",
+    "São aceitas no máximo 20.000 associações.",
+    "登録できる項目は最大 20,000 件です。"
+  ],
+  "Layout überschreitet die unterstützte Anzahl an Gruppen oder Elementen.": [
+    "Layout exceeds the supported number of groups or items.",
+    "La disposition dépasse le nombre de groupes ou d’éléments autorisé.",
+    "El diseño supera el número admitido de grupos o elementos.",
+    "La disposizione supera il numero di gruppi o elementi supportato.",
+    "O layout excede o número permitido de grupos ou itens.",
+    "レイアウトのグループ数または項目数が上限を超えています。"
+  ],
+  "Layout-Datei ist zu groß (maximal 8 MB).": [
+    "Layout file is too large (maximum 8 MB).",
+    "Le fichier de disposition est trop volumineux (8 Mo maximum).",
+    "El archivo de diseño es demasiado grande (máximo 8 MB).",
+    "Il file della disposizione è troppo grande (massimo 8 MB).",
+    "O arquivo de layout é muito grande (máximo de 8 MB).",
+    "レイアウトファイルが大きすぎます（最大 8 MB）。"
+  ],
+  "Leere Layout-Datei.": [
+    "Empty layout file.",
+    "Fichier de disposition vide.",
+    "Archivo de diseño vacío.",
+    "File della disposizione vuoto.",
+    "Arquivo de layout vazio.",
+    "レイアウトファイルが空です。"
+  ],
+  "Layout ist zu groß (maximal 8 MB).": [
+    "Layout is too large (maximum 8 MB).",
+    "La disposition est trop volumineuse (8 Mo maximum).",
+    "El diseño es demasiado grande (máximo 8 MB).",
+    "La disposizione è troppo grande (massimo 8 MB).",
+    "O layout é muito grande (máximo de 8 MB).",
+    "レイアウトが大きすぎます（最大 8 MB）。"
+  ]
+}
