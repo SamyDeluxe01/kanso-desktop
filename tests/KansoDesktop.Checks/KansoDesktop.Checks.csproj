@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings></PropertyGroup><ItemGroup><Compile Include="../../src/KansoDesktop/Model.cs" Link="Model.cs"/><Compile Include="../../src/KansoDesktop/DesktopInventory.cs" Link="DesktopInventory.cs"/><Compile Include="../../src/KansoDesktop/IconLayout.cs" Link="IconLayout.cs"/><Compile Include="../../src/KansoDesktop/InteractionState.cs" Link="InteractionState.cs"/><Compile Include="../../src/KansoDesktop/LatestWriteQueue.cs" Link="LatestWriteQueue.cs"/><Compile Include="../../src/KansoDesktop/ReferenceAssignment.cs" Link="ReferenceAssignment.cs"/></ItemGroup><ItemGroup><Compile Include="../../src/KansoDesktop/Localization.cs" Link="Localization.cs"/><EmbeddedResource Include="../../assets/localization/translations.json" LogicalName="Kanso.Translations"/></ItemGroup></Project>
+
+
+
