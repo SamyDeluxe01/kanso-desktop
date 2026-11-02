@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><AssemblyName>KansoDesktop</AssemblyName>
+    <Version>1.1.0</Version><FileVersion>1.1.0.0</FileVersion><AssemblyVersion>1.1.0.0</AssemblyVersion><Product>Kanso Desktop</Product><ApplicationIcon>../../assets/branding/kanso-v1.ico</ApplicationIcon>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+    <DefineConstants>$(DefineConstants);NATIVE_PREVIEW</DefineConstants>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationManifest>../../src/KansoDesktop/app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="../../assets/branding/kanso-v1.ico" Link="Kanso.ico" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Include="../../src/KansoDesktop/*.cs" Exclude="../../src/KansoDesktop/Program.cs;../../src/KansoDesktop/Smoke.cs;../../src/KansoDesktop/VisibilityProbe.cs" Link="ExistingUi/%(Filename)%(Extension)" />
+  </ItemGroup>
+<ItemGroup><EmbeddedResource Include="../../assets/localization/translations.json" LogicalName="Kanso.Translations" /></ItemGroup></Project>
+
+
+
+
